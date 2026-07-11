@@ -1,13 +1,14 @@
 <div align="center">
 
-# Yang Jiseop
+# Yang Jiseop | 양지섭
+
 ### Game Client Programmer
 
-Unity C#과 Unreal Engine C++을 중심으로 게임 클라이언트 개발자를 준비하고 있습니다.
+**Unity/C# 프로젝트 경험을 기반으로 Unreal Engine 5/C++ 역량을 확장 중인 신입 게임 클라이언트 개발자입니다.**
 
-기능을 단순히 구현하는 것보다, 게임 시스템이 하나의 플레이 흐름 안에서 안정적으로 연결되도록 구조화하는 일에 관심이 많습니다.
+4인 팀 `KrameLife`에서 프로젝트 관리와 클라이언트 통합을 담당했습니다.<br>기능을 구현하는 데서 그치지 않고, 플레이 흐름과 팀의 작업 기준까지 연결합니다.
 
-[Portfolio Index](https://app.notion.com/p/38c070f755748137a274e1c080547751) / [Email](mailto:vastu54321@gmail.com) / [GitHub](https://github.com/Femur-0607)
+[Representative Project](https://github.com/Femur-0607/MiniDriller-Portfolio) · [MiniDriller Demo](https://youtu.be/efCUcJviVkE) · [KrameLife Demo](https://youtu.be/RyCtsDbSocc)
 
 </div>
 
@@ -15,93 +16,71 @@ Unity C#과 Unreal Engine C++을 중심으로 게임 클라이언트 개발자�
 
 ## About Me
 
-게임 개발을 앞으로 오래 이어갈 직업으로 선택하고, Unity와 Unreal Engine 프로젝트를 통해 클라이언트 개발 역량을 쌓고 있습니다.
-
-주요 관심사는 입력, UI, 전투, 웨이브, 저장/로드, 오브젝트 풀링, 격자 기반 판정, 데이터 분리처럼 플레이 흐름을 구성하는 시스템입니다. 버그가 생기면 재현, 원인 분석, 구조 수정, 검증 순서로 해결하려고 합니다.
-
-팀 프로젝트에서는 기능 목록, 우선순위, Git 브랜치 전략, 구현 기준을 정리하며 팀원이 같은 기준으로 작업할 수 있도록 돕는 역할에도 관심을 가지고 있습니다.
+- **입력 → 상태 → UI → 데이터 → 저장**이 하나의 플레이 흐름으로 이어지도록 구조화합니다.
+- 버그는 **재현 → 원인 분석 → 구조 수정 → 검증** 순서로 해결하고, 문제와 의사결정 과정을 다시 확인할 수 있게 기록합니다.
+- 기능 범위와 완료 기준, 진행 상황을 문서화해 팀원이 같은 기준으로 작업할 수 있도록 돕습니다.
 
 ## Tech Stack
 
-### Game Engines
-![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+**주력** &nbsp; ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**프로젝트 경험 · 확장 중** &nbsp; ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) `Meta XR` `Paper2D / PaperZD`
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+**협업** &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+**구현 경험** &nbsp; `Gameplay Logic` `UI` `Data-driven Design` `Save/Load` `Object Pooling` `FSM` `Addressables` `VR Interaction`
 
 ## Featured Projects
 
-### MiniDriller
+### KrameLife - 협업 중심 2D 경영 RPG
 
-![MiniDriller Gameplay](https://raw.githubusercontent.com/Femur-0607/MiniDriller-Portfolio/main/GIF/Game1.gif)
+[![KrameLife Demo](https://img.youtube.com/vi/RyCtsDbSocc/hqdefault.jpg)](https://youtu.be/RyCtsDbSocc)
 
-Unreal Engine 5 C++ 기반 격자형 채굴 액션 프로젝트입니다.
+`Unity 6.3 LTS` `C#` `4인 팀` `프로젝트 관리 · 클라이언트 통합`
 
-- `TMap<FIntPoint, ABlock*>` 기반 GridMap으로 블록 논리 좌표 관리
-- 블록 타입별 Object Pooling 및 재사용 상태 초기화 구현
-- Flood Fill 기반 Match-4 연쇄 소거 구현
-- 좌표 중첩, 낙하 정지, 반복자 무효화 문제 해결
-- 산소, 점수, 깊이, 레벨, 저장 흐름 관리
+- 아이템 데이터가 Inspector와 개별 ScriptableObject에 흩어진 문제를 해결하기 위해 `CSV → ScriptableObject → GameDatabase` 파이프라인과 일괄 검증을 구성했습니다.
+- 공통 ID 규칙, Addressables 기반 아이콘 로딩, `GameContext` 상태 접근으로 팀 기능이 같은 데이터 기준을 사용하도록 연결했습니다.
+- 기능 범위·우선순위·담당·완료 기준과 회의 결정을 문서화하고, 팀원 기능을 메인 플레이 흐름에 통합했습니다.
 
-[Repository](https://github.com/Femur-0607/MiniDriller-Portfolio) / [Demo Video](https://youtu.be/efCUcJviVkE)
+[Demo Video](https://youtu.be/RyCtsDbSocc) *(팀 소스 저장소는 비공개입니다.)*
 
-### Castle Guardian VR
+### MiniDriller - 논리 좌표로 규칙을 안정화한 2D 채굴 액션
 
-[![Castle Guardian VR Demo](https://img.youtube.com/vi/KxXcOsSTjww/maxresdefault.jpg)](https://youtu.be/KxXcOsSTjww)
+[![MiniDriller Demo](https://img.youtube.com/vi/efCUcJviVkE/hqdefault.jpg)](https://youtu.be/efCUcJviVkE)
 
-Unity C# 기반 VR 디펜스 프로젝트입니다.
+`Unreal Engine 5.6.1` `C++` `Paper2D / PaperZD` `1인 개발` `14일`
 
-- VR 활 조준, 화살 발사, 투사체 궤적 피드백 구현
-- 웨이브, 스폰, 포메이션, 타워, 적, 투사체 시스템 구성
-- ScriptableObject 기반 Enemy, Tower, Projectile, Wave 데이터 분리
-- Enemy, Projectile, Particle, AudioSource 풀링 적용
+- 물리 충돌 순서에 따라 블록이 멈추거나 겹치는 문제를 재현했습니다.
+- `TMap<FIntPoint, ABlock*>` GridMap에서 논리 좌표를 먼저 확정하도록 구조를 바꿔 낙하와 Match-4 판정을 일관되게 처리했습니다.
+- Flood Fill, 타입별 Object Pooling을 구현하고 반복자 무효화·이중 반납 문제까지 검증했습니다.
 
-[Repository](https://github.com/Femur-0607/Castle-Guardian-VR-Portfolio) / [Demo Video](https://youtu.be/KxXcOsSTjww)
+[Repository](https://github.com/Femur-0607/MiniDriller-Portfolio) · [Demo Video](https://youtu.be/efCUcJviVkE) · [Dev Logs](https://github.com/Femur-0607/MiniDriller-Portfolio/tree/main/Docs/Notion/dev-logs) · [Troubleshooting](https://github.com/Femur-0607/MiniDriller-Portfolio/blob/main/Docs/Notion/troubleshooting.md)
 
-### Project TownLife
+### Castle Guardian VR - 입력과 피드백을 연결한 VR 디펜스
 
-Unity 2D 탑다운 상점 경영 팀 프로젝트입니다.
+[![Castle Guardian VR Demo](https://img.youtube.com/vi/KxXcOsSTjww/hqdefault.jpg)](https://youtu.be/KxXcOsSTjww)
 
-- 코어 루프: 조달 -> 제작 -> 판매 -> 성장 -> 저장 -> 다음날
-- 기능 범위, 팀 규칙, Git 전략, 구현 기준 정리
-- 데이터 기반 구조, 이벤트 채널, 세이브 데이터, UI 흐름 설계
-- 팀 프로젝트에서 PM 역할과 기능 통합 경험
+`Unity` `C#` `Meta XR SDK` `1인 개발` `8주`
 
-[Repository](https://github.com/Femur-0607/ProjectTownLife)
+- 낯선 VR 개발 환경에서 Meta·Unity 공식 문서를 기준으로 입력과 상호작용을 작은 단위로 구현하고 반복 검증했습니다.
+- 활·투사체, 웨이브·적 AI, 타워 시스템의 책임을 나누고 ScriptableObject로 데이터를 분리했습니다.
+- 적, 투사체, 파티클, 오디오에 Object Pooling을 적용해 하나의 플레이 가능한 디펜스 흐름으로 연결했습니다.
 
-### DunLegacy
+[Repository](https://github.com/Femur-0607/Castle-Guardian-VR-Portfolio) · [Demo Video](https://youtu.be/KxXcOsSTjww)
 
-[![DunLegacy Demo](https://img.youtube.com/vi/-EYzNawFw4I/maxresdefault.jpg)](https://youtu.be/-EYzNawFw4I)
+## Collaboration & Communication
 
-Unity 2D 로그라이트 액션 구조를 학습하며 만든 프로젝트입니다.
+| 협업 기준 | 실행과 근거 |
+| --- | --- |
+| 같은 기준으로 시작 | 기능 범위, 공통 ID·데이터 규칙, 완료 기준과 검증 절차를 먼저 정리합니다. [Team Development Rules](https://github.com/Femur-0607/Project-CoreLoop/blob/master/docs/team-rules.md) |
+| 진행과 결정을 공유 | 작업 보드·회의 기록·개발일지에 진행 상태, 결정 이유, 남은 위험을 남깁니다. [Development Notes](https://github.com/Femur-0607/MiniDriller-Portfolio/blob/main/Docs/Notion/README.md) |
+| 메인 흐름에서 통합 | 팀원 기능을 공통 데이터와 플레이 흐름에 연결하고 함께 검증합니다. [KrameLife Demo](https://youtu.be/RyCtsDbSocc) |
 
-- UI, Sound, Dialog, MiniMap, Camera 구현
-- enum 기반 Monster FSM 구현
-- Queue 기반 Room 생성 흐름 구현
-- Boss Pattern Coroutine 구성
+라이브 게임 CS 경험을 바탕으로 사용자 이슈를 재현 가능한 형태로 정리하고, 상대가 이해하기 쉬운 언어로 전달합니다.
 
-[Repository](https://github.com/Femur-0607/DunLegacy-Portfolio) / [Demo Video](https://youtu.be/-EYzNawFw4I)
+## Growth & Records
 
-## Strengths
+[DunLegacy](https://github.com/Femur-0607/DunLegacy-Portfolio)의 폭넓은 기능 구현 → [Castle Guardian VR](https://github.com/Femur-0607/Castle-Guardian-VR-Portfolio)의 책임 분리 → [MiniDriller](https://github.com/Femur-0607/MiniDriller-Portfolio)의 논리 좌표 중심 구조 → KrameLife의 팀 공통 데이터·협업 기준으로 프로젝트마다 설계 범위를 확장해 왔습니다.
 
-- 게임 시스템을 플레이 루프 안에서 연결하는 구조화 역량
-- 재현, 원인 분석, 구조 수정, 검증 기반의 디버깅 습관
-- ScriptableObject, ID, GameDatabase, SaveData, Event Channel 등 데이터 기반 설계 관심
-- Notion, Git, 작업 카드 기반의 팀 협업 정리 경험
+C++ 학습 과정도 [MissingDiamond 커밋 기록](https://github.com/Femur-0607/MissingDiamond/commits/master/)에 작은 리팩터링 단위로 남겨 변화의 이유를 확인할 수 있게 했습니다.
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Femur-0607&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Femur-0607&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
