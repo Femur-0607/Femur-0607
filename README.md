@@ -8,7 +8,7 @@
 
 4인 팀 `KrameLife`에서 프로젝트 관리와 클라이언트 통합을 담당했습니다.<br>기능을 구현하는 데서 그치지 않고, 플레이 흐름과 팀의 작업 기준까지 연결합니다.
 
-[Representative Project](https://github.com/Femur-0607/MiniDriller-Portfolio) · [MiniDriller Demo](https://youtu.be/efCUcJviVkE) · [KrameLife Demo](https://youtu.be/RyCtsDbSocc)
+[Representative Project](https://github.com/Femur-0607/MiniDriller-Portfolio) · [MiniDriller Demo](https://youtu.be/efCUcJviVkE) · [KrameLife Demo](https://www.youtube.com/watch?v=ArTEC_peleQ)
 
 </div>
 
