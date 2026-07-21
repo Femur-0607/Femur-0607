@@ -8,7 +8,7 @@
 
 4인 팀 `KrameLife`에서 프로젝트 관리와 클라이언트 통합을 담당했습니다.<br>기능을 구현하는 데서 그치지 않고, 플레이 흐름과 팀의 작업 기준까지 연결합니다.
 
-[Representative Project](https://github.com/Femur-0607/MiniDriller-Portfolio) · [MiniDriller Demo](https://youtu.be/efCUcJviVkE) · [KrameLife Demo](https://youtu.be/ArTEC_peleQ?si=zRVKfHJV7WS8TjgN)
+[KrameLife Repository](https://github.com/Femur-0607/KrameLife) · [KrameLife Demo](https://youtu.be/ArTEC_peleQ) · [MiniDriller Demo](https://youtu.be/efCUcJviVkE)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ### KrameLife - 협업 중심 2D 경영 RPG
 
-[![KrameLife Demo](https://img.youtube.com/vi/RyCtsDbSocc/hqdefault.jpg)](https://youtu.be/RyCtsDbSocc)
+[![KrameLife Demo](https://img.youtube.com/vi/ArTEC_peleQ/hqdefault.jpg)](https://youtu.be/ArTEC_peleQ)
 
 `Unity 6.3 LTS` `C#` `4인 팀` `프로젝트 관리 · 클라이언트 통합`
 
@@ -42,7 +42,7 @@
 - 공통 ID 규칙, Addressables 기반 아이콘 로딩, `GameContext` 상태 접근으로 팀 기능이 같은 데이터 기준을 사용하도록 연결했습니다.
 - 기능 범위·우선순위·담당·완료 기준과 회의 결정을 문서화하고, 팀원 기능을 메인 플레이 흐름에 통합했습니다.
 
-[Demo Video](https://youtu.be/RyCtsDbSocc) *(팀 소스 저장소는 비공개입니다.)*
+[Repository](https://github.com/Femur-0607/KrameLife) · [Demo Video](https://youtu.be/ArTEC_peleQ)
 
 ### MiniDriller - 논리 좌표로 규칙을 안정화한 2D 채굴 액션
 
@@ -74,13 +74,13 @@
 | --- | --- |
 | 같은 기준으로 시작 | 기능 범위, 공통 ID·데이터 규칙, 완료 기준과 검증 절차를 먼저 정리합니다. [Team Development Rules](https://github.com/Femur-0607/Project-CoreLoop/blob/master/docs/team-rules.md) |
 | 진행과 결정을 공유 | 작업 보드·회의 기록·개발일지에 진행 상태, 결정 이유, 남은 위험을 남깁니다. [Development Notes](https://github.com/Femur-0607/MiniDriller-Portfolio/blob/main/Docs/Notion/README.md) |
-| 메인 흐름에서 통합 | 팀원 기능을 공통 데이터와 플레이 흐름에 연결하고 함께 검증합니다. [KrameLife Demo](https://youtu.be/RyCtsDbSocc) |
+| 메인 흐름에서 통합 | 팀원 기능을 공통 데이터와 플레이 흐름에 연결하고 함께 검증합니다. [KrameLife Repository](https://github.com/Femur-0607/KrameLife) · [Demo](https://youtu.be/ArTEC_peleQ) |
 
 라이브 게임 CS 경험을 바탕으로 사용자 이슈를 재현 가능한 형태로 정리하고, 상대가 이해하기 쉬운 언어로 전달합니다.
 
 ## Growth & Records
 
-[DunLegacy](https://github.com/Femur-0607/DunLegacy-Portfolio)의 폭넓은 기능 구현 → [Castle Guardian VR](https://github.com/Femur-0607/Castle-Guardian-VR-Portfolio)의 책임 분리 → [MiniDriller](https://github.com/Femur-0607/MiniDriller-Portfolio)의 논리 좌표 중심 구조 → KrameLife의 팀 공통 데이터·협업 기준으로 프로젝트마다 설계 범위를 확장해 왔습니다.
+[DunLegacy](https://github.com/Femur-0607/DunLegacy-Portfolio)의 폭넓은 기능 구현 → [Castle Guardian VR](https://github.com/Femur-0607/Castle-Guardian-VR-Portfolio)의 책임 분리 → [MiniDriller](https://github.com/Femur-0607/MiniDriller-Portfolio)의 논리 좌표 중심 구조 → [KrameLife](https://github.com/Femur-0607/KrameLife)의 팀 공통 데이터·협업 기준으로 프로젝트마다 설계 범위를 확장해 왔습니다.
 
 C++ 학습 과정도 [MissingDiamond 커밋 기록](https://github.com/Femur-0607/MissingDiamond/commits/master/)에 작은 리팩터링 단위로 남겨 변화의 이유를 확인할 수 있게 했습니다.
 
