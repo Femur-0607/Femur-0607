@@ -6,6 +6,9 @@
 
 **Unity/C# 프로젝트 경험을 기반으로 Unreal Engine 5/C++ 역량을 확장 중인 신입 게임 클라이언트 개발자입니다.**
 
+   <!-- POKEREPO:START -->
+   <!-- POKEREPO:END -->
+
 4인 팀 `KrameLife`에서 프로젝트 관리와 클라이언트 통합을 담당했습니다.<br>기능을 구현하는 데서 그치지 않고, 플레이 흐름과 팀의 작업 기준까지 연결합니다.
 
 [Representative Project: KrameLife](https://github.com/Femur-0607/KrameLife-Portfolio) · [KrameLife Demo](https://youtu.be/ArTEC_peleQ) · [MiniDriller Demo](https://youtu.be/efCUcJviVkE)
