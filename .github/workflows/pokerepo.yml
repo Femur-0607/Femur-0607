@@ -22,7 +22,7 @@ jobs:
           ref: 6a9fd665ecb4958e16b079851c0c953592eb0881
           path: .pokerepo-action
           persist-credentials: false
-      - name: Handle empty repositories
+      - name: Handle empty and blocked repositories
         shell: python
         run: |
           from pathlib import Path
@@ -35,7 +35,10 @@ jobs:
             }
           """
           assert source.count(anchor) == 1, "PokeRepo source changed; review empty-repository fix"
-          path.write_text(source.replace(anchor, patch + anchor))
+          patch += r"  if (r.status === 451 && /^\/repos\/[^/]+\/[^/]+$/.test(path)) return null;" + "\n"
+          source = source.replace(anchor, patch + anchor)
+          source = source.replace("if (r.private) continue;", "if (r.private || r.disabled) continue;")
+          path.write_text(source)
       - uses: ./.pokerepo-action
         with:
           login: Femur-0607
