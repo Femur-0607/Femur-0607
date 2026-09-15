@@ -2,10 +2,50 @@ name: pokerepo
 on:
   schedule: [{ cron: "0 21 * * *" }]
   workflow_dispatch:
-permissions: { contents: write }
+  push:
+    branches: [main]
+    paths: [".github/workflows/pokerepo.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: pokerepo
+  cancel-in-progress: false
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: wantaekchoi/pokerepo@v1
+      - name: Get PokeRepo
+        uses: actions/checkout@v4
+        with:
+          repository: wantaekchoi/pokerepo
+          ref: 6a9fd665ecb4958e16b079851c0c953592eb0881
+          path: .pokerepo-action
+          persist-credentials: false
+      - name: Handle empty repositories
+        shell: python
+        run: |
+          from pathlib import Path
+          path = Path(".pokerepo-action/src/sources.mjs")
+          source = path.read_text()
+          anchor = "  if (r.status === 404) return null;"
+          patch = r"""  if (r.status === 409 && /^\/repos\/[^/]+\/[^/]+\/commits\?/.test(path)) {
+              const body = await r.clone().json().catch(() => null);
+              if (body?.message === 'Git Repository is empty.') return [];
+            }
+          """
+          assert source.count(anchor) == 1, "PokeRepo source changed; review empty-repository fix"
+          path.write_text(source.replace(anchor, patch + anchor))
+      - uses: ./.pokerepo-action
+        with:
+          login: Femur-0607
+          commit: "false"
+      - name: Save PokeRepo card
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md trainer.json
+          git diff --staged --quiet && { echo "nothing changed"; exit 0; }
+          git commit -m "chore: update pokerepo"
+          git push
