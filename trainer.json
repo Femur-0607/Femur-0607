@@ -1,0 +1,152 @@
+{
+  "login": "Femur-0607",
+  "repos": {
+    "Femur-0607/Castle-Guardian-VR-Portfolio": {
+      "exp": 250,
+      "caught": true,
+      "species": 572,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 6,
+      "mon": 572
+    },
+    "Femur-0607/CodeTest": {
+      "exp": 250,
+      "caught": true,
+      "species": 74,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 74
+    },
+    "Femur-0607/DunLegacy-Portfolio": {
+      "exp": 500,
+      "caught": true,
+      "species": 333,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 6,
+      "mon": 333
+    },
+    "Femur-0607/Femur-0607": {
+      "exp": 3000,
+      "caught": true,
+      "species": 543,
+      "stars": 0,
+      "commits": 12,
+      "merges": 0,
+      "alive": true,
+      "level": 16,
+      "mon": 543
+    },
+    "Femur-0607/KrameLife": {
+      "exp": 0,
+      "caught": true,
+      "species": 524,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 524
+    },
+    "Femur-0607/KrameLife-Portfolio": {
+      "exp": 500,
+      "caught": true,
+      "species": 21,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 21
+    },
+    "Femur-0607/MiniDriller-Portfolio": {
+      "exp": 500,
+      "caught": true,
+      "species": 16,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 9,
+      "mon": 16
+    },
+    "Femur-0607/MissingDiamond": {
+      "exp": 3750,
+      "caught": true,
+      "species": 582,
+      "stars": 0,
+      "commits": 15,
+      "merges": 0,
+      "alive": true,
+      "level": 14,
+      "mon": 582
+    },
+    "Femur-0607/Project-CoreLoop": {
+      "exp": 500,
+      "caught": true,
+      "species": 843,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 843
+    }
+  },
+  "dex": {
+    "16": {
+      "seen": true,
+      "caught": true
+    },
+    "21": {
+      "seen": true,
+      "caught": true
+    },
+    "74": {
+      "seen": true,
+      "caught": true
+    },
+    "333": {
+      "seen": true,
+      "caught": true
+    },
+    "524": {
+      "seen": true,
+      "caught": true
+    },
+    "543": {
+      "seen": true,
+      "caught": true
+    },
+    "572": {
+      "seen": true,
+      "caught": true
+    },
+    "582": {
+      "seen": true,
+      "caught": true
+    },
+    "843": {
+      "seen": true,
+      "caught": true
+    }
+  },
+  "trainer": {
+    "grassExp": 26150
+  },
+  "updatedAt": "2026-09-15",
+  "exp": {
+    "commitOwn": 250,
+    "commitExternal": 600,
+    "mergeOwn": 300,
+    "mergeExternal": 3000
+  }
+}

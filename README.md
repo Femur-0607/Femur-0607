@@ -7,7 +7,33 @@
 **Unity/C# 프로젝트 경험을 기반으로 Unreal Engine 5/C++ 역량을 확장 중인 신입 게임 클라이언트 개발자입니다.**
 
    <!-- POKEREPO:START -->
-   <!-- POKEREPO:END -->
+<table>
+<tr>
+<td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=543" title="Venipede in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/543.gif" width="64" height="45" alt="venipede"></a></td>
+<td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=582" title="Vanillite in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/582.gif" width="64" height="52" alt="vanillite"></a></td>
+<td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=16" title="Pidgey in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/16.gif" width="56" height="64" alt="pidgey"></a></td>
+<td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=21" title="Spearow in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/21.gif" width="53" height="64" alt="spearow"></a></td>
+<td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=843" title="Silicobra in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png" width="64" height="64" alt="silicobra"></a></td>
+<td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=74" title="Geodude in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/74.gif" width="64" height="47" alt="geodude"></a></td>
+<td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=333" title="Swablu in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/333.gif" width="64" height="43" alt="swablu"></a></td>
+<td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=572" title="Minccino in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/572.gif" width="64" height="55" alt="minccino"></a></td>
+<td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=524" title="Roggenrola in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/524.gif" width="39" height="64" alt="roggenrola"></a></td>
+</tr>
+<tr>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=543"><b>Venipede</b></a><br><sub>Lv.16</sub><br><sub><a href="https://github.com/Femur-0607/Femur-0607" title="Femur-0607/Femur-0607">Femur-0607</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=582"><b>Vanillite</b></a><br><sub>Lv.14</sub><br><sub><a href="https://github.com/Femur-0607/MissingDiamond" title="Femur-0607/MissingDiamond">MissingDiam…</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=16"><b>Pidgey</b></a><br><sub>Lv.9</sub><br><sub><a href="https://github.com/Femur-0607/MiniDriller-Portfolio" title="Femur-0607/MiniDriller-Portfolio">MiniDriller…</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=21"><b>Spearow</b></a><br><sub>Lv.7</sub><br><sub><a href="https://github.com/Femur-0607/KrameLife-Portfolio" title="Femur-0607/KrameLife-Portfolio">KrameLife-P…</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=843"><b>Silicobra</b></a><br><sub>Lv.7</sub><br><sub><a href="https://github.com/Femur-0607/Project-CoreLoop" title="Femur-0607/Project-CoreLoop">Project-Cor…</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=74"><b>Geodude</b></a><br><sub>Lv.7</sub><br><sub><a href="https://github.com/Femur-0607/CodeTest" title="Femur-0607/CodeTest">CodeTest</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=333"><b>Swablu</b></a><br><sub>Lv.6</sub><br><sub><a href="https://github.com/Femur-0607/DunLegacy-Portfolio" title="Femur-0607/DunLegacy-Portfolio">DunLegacy-P…</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=572"><b>Minccino</b></a><br><sub>Lv.6</sub><br><sub><a href="https://github.com/Femur-0607/Castle-Guardian-VR-Portfolio" title="Femur-0607/Castle-Guardian-VR-Portfolio">Castle-Guar…</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=524"><b>Roggenrola</b></a><br><sub>Lv.1</sub><br><sub><a href="https://github.com/Femur-0607/KrameLife" title="Femur-0607/KrameLife">KrameLife</a></sub></td>
+</tr>
+</table>
+
+<sub><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607">Femur-0607's Dex</a></sub>
+<!-- POKEREPO:END -->
 
 4인 팀 `KrameLife`에서 프로젝트 관리와 클라이언트 통합을 담당했습니다.<br>기능을 구현하는 데서 그치지 않고, 플레이 흐름과 팀의 작업 기준까지 연결합니다.
 
