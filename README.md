@@ -28,7 +28,7 @@
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=74"><b>Geodude</b></a><br><sub>Lv.7</sub><br><sub><a href="https://github.com/Femur-0607/CodeTest" title="Femur-0607/CodeTest">CodeTest</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=333"><b>Swablu</b></a><br><sub>Lv.6</sub><br><sub><a href="https://github.com/Femur-0607/DunLegacy-Portfolio" title="Femur-0607/DunLegacy-Portfolio">DunLegacy-P…</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=572"><b>Minccino</b></a><br><sub>Lv.6</sub><br><sub><a href="https://github.com/Femur-0607/Castle-Guardian-VR-Portfolio" title="Femur-0607/Castle-Guardian-VR-Portfolio">Castle-Guar…</a></sub></td>
-<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=524"><b>Roggenrola</b></a><br><sub>Lv.1</sub><br><sub><a href="https://github.com/Femur-0607/KrameLife" title="Femur-0607/KrameLife">KrameLife</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=524"><b>Roggenrola</b></a><br><sub>Lv.1 · parked</sub><br><sub><a href="https://github.com/Femur-0607/KrameLife" title="Femur-0607/KrameLife">KrameLife</a></sub></td>
 </tr>
 </table>
 
