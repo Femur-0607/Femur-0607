@@ -17,7 +17,7 @@
 <td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=74" title="Geodude in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/74.gif" width="64" height="47" alt="geodude"></a></td>
 <td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=333" title="Swablu in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/333.gif" width="64" height="43" alt="swablu"></a></td>
 <td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=572" title="Minccino in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/572.gif" width="64" height="55" alt="minccino"></a></td>
-<td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=524" title="Roggenrola in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/524.gif" width="39" height="64" alt="roggenrola"></a></td>
+</a></td>
 </tr>
 <tr>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=543"><b>Venipede</b></a><br><sub>Lv.16</sub><br><sub><a href="https://github.com/Femur-0607/Femur-0607" title="Femur-0607/Femur-0607">Femur-0607</a></sub></td>
