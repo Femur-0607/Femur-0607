@@ -17,10 +17,10 @@
 <td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=74" title="Geodude in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/74.gif" width="64" height="47" alt="geodude"></a></td>
 <td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=333" title="Swablu in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/333.gif" width="64" height="43" alt="swablu"></a></td>
 <td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=572" title="Minccino in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/572.gif" width="64" height="55" alt="minccino"></a></td>
-</a></td>
+<td align="center" valign="bottom" width="97" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=524" title="Roggenrola in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/524.gif" width="39" height="64" alt="roggenrola"></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=543"><b>Venipede</b></a><br><sub>Lv.16</sub><br><sub><a href="https://github.com/Femur-0607/Femur-0607" title="Femur-0607/Femur-0607">Femur-0607</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=543"><b>Venipede</b></a><br><sub>Lv.17</sub><br><sub><a href="https://github.com/Femur-0607/Femur-0607" title="Femur-0607/Femur-0607">Femur-0607</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=582"><b>Vanillite</b></a><br><sub>Lv.14</sub><br><sub><a href="https://github.com/Femur-0607/MissingDiamond" title="Femur-0607/MissingDiamond">MissingDiam…</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=16"><b>Pidgey</b></a><br><sub>Lv.9</sub><br><sub><a href="https://github.com/Femur-0607/MiniDriller-Portfolio" title="Femur-0607/MiniDriller-Portfolio">MiniDriller…</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=21"><b>Spearow</b></a><br><sub>Lv.7</sub><br><sub><a href="https://github.com/Femur-0607/KrameLife-Portfolio" title="Femur-0607/KrameLife-Portfolio">KrameLife-P…</a></sub></td>
@@ -28,6 +28,7 @@
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=74"><b>Geodude</b></a><br><sub>Lv.7</sub><br><sub><a href="https://github.com/Femur-0607/CodeTest" title="Femur-0607/CodeTest">CodeTest</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=333"><b>Swablu</b></a><br><sub>Lv.6</sub><br><sub><a href="https://github.com/Femur-0607/DunLegacy-Portfolio" title="Femur-0607/DunLegacy-Portfolio">DunLegacy-P…</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=572"><b>Minccino</b></a><br><sub>Lv.6</sub><br><sub><a href="https://github.com/Femur-0607/Castle-Guardian-VR-Portfolio" title="Femur-0607/Castle-Guardian-VR-Portfolio">Castle-Guar…</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=524"><b>Roggenrola</b></a><br><sub>Lv.1 · parked</sub><br><sub><a href="https://github.com/Femur-0607/KrameLife" title="Femur-0607/KrameLife">KrameLife</a></sub></td>
 </tr>
 </table>
 

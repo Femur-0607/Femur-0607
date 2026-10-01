@@ -35,14 +35,14 @@
       "mon": 333
     },
     "Femur-0607/Femur-0607": {
-      "exp": 3000,
+      "exp": 3500,
       "caught": true,
       "species": 543,
       "stars": 0,
-      "commits": 12,
+      "commits": 14,
       "merges": 0,
       "alive": true,
-      "level": 16,
+      "level": 17,
       "mon": 543
     },
     "Femur-0607/KrameLife": {
@@ -140,9 +140,9 @@
     }
   },
   "trainer": {
-    "grassExp": 26200
+    "grassExp": 26300
   },
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
