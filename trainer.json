@@ -99,6 +99,17 @@
       "alive": true,
       "level": 7,
       "mon": 843
+    },
+    "Femur-0607/speak-flow": {
+      "exp": 500,
+      "caught": true,
+      "species": 824,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 824
     }
   },
   "dex": {
@@ -134,15 +145,19 @@
       "seen": true,
       "caught": true
     },
+    "824": {
+      "seen": true,
+      "caught": true
+    },
     "843": {
       "seen": true,
       "caught": true
     }
   },
   "trainer": {
-    "grassExp": 27700
+    "grassExp": 27900
   },
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-06",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
