@@ -41,7 +41,7 @@
 
 Unity 팀 프로젝트의 관리·통합부터 Unreal C++ 1인 개발, 개발 도구 제작까지 경험했습니다.<br>기능 구현에서 그치지 않고 플레이 흐름, 팀의 작업 기준, 개발 환경까지 연결합니다.
 
-[Representative Project: KrameLife](https://github.com/Femur-0607/KrameLife-Portfolio) · [KrameLife Demo](https://youtu.be/ArTEC_peleQ) · [MiniDriller Demo](https://youtu.be/efCUcJviVkE) · [handback](https://github.com/Femur-0607/handback)
+**팀 프로젝트** [KrameLife](https://github.com/Femur-0607/KrameLife-Portfolio) ([Demo](https://youtu.be/ArTEC_peleQ)) &nbsp;·&nbsp; **1인 개발** [MiniDriller](https://github.com/Femur-0607/MiniDriller-Portfolio) ([Demo](https://youtu.be/efCUcJviVkE)) &nbsp;·&nbsp; **개발 도구** [handback](https://github.com/Femur-0607/handback)
 
 </div>
 
