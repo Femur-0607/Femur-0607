@@ -41,7 +41,7 @@
 
 4인 팀 `KrameLife`에서 프로젝트 관리와 클라이언트 통합을 담당했습니다.<br>기능을 구현하는 데서 그치지 않고, 플레이 흐름과 팀의 작업 기준까지 연결합니다.
 
-[Representative Project: KrameLife](https://github.com/Femur-0607/KrameLife-Portfolio) · [KrameLife Demo](https://youtu.be/ArTEC_peleQ) · [MiniDriller Demo](https://youtu.be/efCUcJviVkE)
+[Representative Project: KrameLife](https://github.com/Femur-0607/KrameLife-Portfolio) · [KrameLife Demo](https://youtu.be/ArTEC_peleQ) · [MiniDriller Demo](https://youtu.be/efCUcJviVkE) · [handback](https://github.com/Femur-0607/handback)
 
 </div>
 
@@ -60,6 +60,8 @@
 **프로젝트 경험 · 확장 중** &nbsp; ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) `Meta XR` `Paper2D / PaperZD`
 
 **협업** &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+**도구 개발** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **구현 경험** &nbsp; `Gameplay Logic` `UI` `Data-driven Design` `Save/Load` `Object Pooling` `FSM` `Addressables` `VR Interaction`
 
@@ -100,6 +102,21 @@
 - 적, 투사체, 파티클, 오디오에 Object Pooling을 적용해 하나의 플레이 가능한 디펜스 흐름으로 연결했습니다.
 
 [Repository](https://github.com/Femur-0607/Castle-Guardian-VR-Portfolio) · [Demo Video](https://youtu.be/KxXcOsSTjww)
+
+## Side Project
+
+### handback - 코딩 에이전트 앱 사이의 작업 전달 도구
+
+<a href="https://github.com/Femur-0607/handback"><img src="https://raw.githubusercontent.com/Femur-0607/handback/main/docs/assets/handback-logo.png" alt="handback" width="320"></a>
+
+`Python` `표준 라이브러리만 사용` `1인 개발` `PyPI 공개` `Windows 검증`
+
+- 여러 코딩 에이전트를 오가며 작업을 넘기고 결과를 다시 가져오는 반복 작업을 줄이기 위해 만들었습니다.
+- Claude 대화(Lead)가 Codex·Antigravity 워커 대화에 작업을 넘기고, 결과를 로컬 inbox에 저장해 원래 대화에서 검토·확인(ACK)하는 흐름을 구성했습니다.
+- 요청마다 식별자를 부여하고 결과를 디스크에 남겨, 대화가 끊기거나 대기가 타임아웃돼도 중복 제출 없이 이어받을 수 있게 했습니다.
+- 워커를 숨은 서브프로세스가 아닌 각 앱의 실제 대화로 만들어 진행 과정을 직접 지켜볼 수 있게 했고, 실사용 중 발견한 문제를 버전 단위로 수정해 릴리스하고 있습니다.
+
+[Repository](https://github.com/Femur-0607/handback) · [PyPI](https://pypi.org/project/handback/) · [한국어 사용 설명서](https://github.com/Femur-0607/handback/blob/main/docs/usage.ko.md) · [Changelog](https://github.com/Femur-0607/handback/blob/main/CHANGELOG.md)
 
 ## Collaboration & Communication
 
