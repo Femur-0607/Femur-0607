@@ -114,6 +114,7 @@
 - 여러 코딩 에이전트를 오가며 작업을 넘기고 결과를 다시 가져오는 반복 작업을 줄이기 위해 만들었습니다.
 - Claude 대화(Lead)가 Codex·Antigravity 워커 대화에 작업을 넘기고, 결과를 로컬 inbox에 저장해 원래 대화에서 검토·확인(ACK)하는 흐름을 구성했습니다.
 - 요청마다 식별자를 부여하고 결과를 디스크에 남겨, 대화가 끊기거나 대기가 타임아웃돼도 중복 제출 없이 이어받을 수 있게 했습니다.
+- 앱 실행·파일 감시·JSON 처리 위주의 도구라 Python 표준 라이브러리만으로 구현해, 추가 의존성 없이 설치 한 줄로 쓰고 에이전트 앱의 훅·스킬에서 바로 호출할 수 있게 했습니다.
 - 워커를 숨은 서브프로세스가 아닌 각 앱의 실제 대화로 만들어 진행 과정을 직접 지켜볼 수 있게 했고, 실사용 중 발견한 문제를 버전 단위로 수정해 릴리스하고 있습니다.
 
 [Repository](https://github.com/Femur-0607/handback) · [PyPI](https://pypi.org/project/handback/) · [한국어 사용 설명서](https://github.com/Femur-0607/handback/blob/main/docs/usage.ko.md) · [Changelog](https://github.com/Femur-0607/handback/blob/main/CHANGELOG.md)
