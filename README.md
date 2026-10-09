@@ -39,7 +39,7 @@
 <sub><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607">Femur-0607's Dex</a></sub>
 <!-- POKEREPO:END -->
 
-4인 팀 `KrameLife`에서 프로젝트 관리와 클라이언트 통합을 담당했습니다.<br>기능을 구현하는 데서 그치지 않고, 플레이 흐름과 팀의 작업 기준까지 연결합니다.
+Unity 팀 프로젝트의 관리·통합부터 Unreal C++ 1인 개발, 개발 도구 제작까지 경험했습니다.<br>기능 구현에서 그치지 않고 플레이 흐름, 팀의 작업 기준, 개발 환경까지 연결합니다.
 
 [Representative Project: KrameLife](https://github.com/Femur-0607/KrameLife-Portfolio) · [KrameLife Demo](https://youtu.be/ArTEC_peleQ) · [MiniDriller Demo](https://youtu.be/efCUcJviVkE) · [handback](https://github.com/Femur-0607/handback)
 
