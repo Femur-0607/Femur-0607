@@ -69,6 +69,8 @@ Unity 팀 프로젝트의 관리·통합부터 Unreal C++ 1인 개발, 개발 �
 
 ### handback - 코딩 에이전트 앱 사이의 작업 전달 도구
 
+<a href="https://github.com/Femur-0607/handback"><img src="https://raw.githubusercontent.com/Femur-0607/handback/main/docs/assets/handback-logo.png" alt="handback" width="320"></a>
+
 `Python` `표준 라이브러리만 사용` `1인 개발` `PyPI 공개`
 
 - **작업 전달과 결과 회수:** Claude 대화(Lead)가 Codex·Antigravity 워커 대화에 작업을 넘기고, 결과를 로컬 inbox로 받아 검토·확인(ACK)합니다.
