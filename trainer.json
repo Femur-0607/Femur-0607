@@ -110,6 +110,17 @@
       "alive": true,
       "level": 7,
       "mon": 824
+    },
+    "Femur-0607/handback": {
+      "exp": 5250,
+      "caught": true,
+      "species": 846,
+      "stars": 0,
+      "commits": 21,
+      "merges": 0,
+      "alive": true,
+      "level": 16,
+      "mon": 846
     }
   },
   "dex": {
@@ -152,12 +163,16 @@
     "843": {
       "seen": true,
       "caught": true
+    },
+    "846": {
+      "seen": true,
+      "caught": true
     }
   },
   "trainer": {
-    "grassExp": 24900
+    "grassExp": 26300
   },
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-10-09",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
