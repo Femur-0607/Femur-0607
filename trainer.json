@@ -35,14 +35,14 @@
       "mon": 333
     },
     "Femur-0607/Femur-0607": {
-      "exp": 3500,
+      "exp": 5000,
       "caught": true,
       "species": 543,
       "stars": 0,
-      "commits": 14,
+      "commits": 20,
       "merges": 0,
       "alive": true,
-      "level": 17,
+      "level": 19,
       "mon": 543
     },
     "Femur-0607/KrameLife": {
@@ -112,14 +112,14 @@
       "mon": 824
     },
     "Femur-0607/handback": {
-      "exp": 5250,
+      "exp": 7750,
       "caught": true,
       "species": 846,
       "stars": 0,
-      "commits": 21,
+      "commits": 31,
       "merges": 0,
       "alive": true,
-      "level": 16,
+      "level": 18,
       "mon": 846
     }
   },
@@ -170,9 +170,9 @@
     }
   },
   "trainer": {
-    "grassExp": 26300
+    "grassExp": 26400
   },
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-10",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
