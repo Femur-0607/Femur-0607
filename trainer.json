@@ -2,14 +2,14 @@
   "login": "Femur-0607",
   "repos": {
     "Femur-0607/Castle-Guardian-VR-Portfolio": {
-      "exp": 250,
+      "exp": 500,
       "caught": true,
       "species": 572,
       "stars": 0,
-      "commits": 1,
+      "commits": 2,
       "merges": 0,
       "alive": true,
-      "level": 6,
+      "level": 8,
       "mon": 572
     },
     "Femur-0607/CodeTest": {
@@ -24,14 +24,14 @@
       "mon": 74
     },
     "Femur-0607/DunLegacy-Portfolio": {
-      "exp": 500,
+      "exp": 1000,
       "caught": true,
       "species": 333,
       "stars": 0,
-      "commits": 2,
+      "commits": 4,
       "merges": 0,
       "alive": true,
-      "level": 6,
+      "level": 8,
       "mon": 333
     },
     "Femur-0607/Femur-0607": {
@@ -57,25 +57,25 @@
       "mon": 524
     },
     "Femur-0607/KrameLife-Portfolio": {
-      "exp": 500,
+      "exp": 1500,
       "caught": true,
       "species": 21,
       "stars": 0,
-      "commits": 2,
+      "commits": 6,
       "merges": 0,
       "alive": true,
-      "level": 7,
+      "level": 11,
       "mon": 21
     },
     "Femur-0607/MiniDriller-Portfolio": {
-      "exp": 500,
+      "exp": 750,
       "caught": true,
       "species": 16,
       "stars": 0,
-      "commits": 2,
+      "commits": 3,
       "merges": 0,
       "alive": true,
-      "level": 9,
+      "level": 11,
       "mon": 16
     },
     "Femur-0607/MissingDiamond": {
@@ -112,14 +112,14 @@
       "mon": 824
     },
     "Femur-0607/handback": {
-      "exp": 13750,
+      "exp": 16000,
       "caught": true,
       "species": 846,
       "stars": 0,
-      "commits": 55,
+      "commits": 64,
       "merges": 0,
       "alive": true,
-      "level": 22,
+      "level": 23,
       "mon": 846
     }
   },
@@ -170,9 +170,9 @@
     }
   },
   "trainer": {
-    "grassExp": 23050
+    "grassExp": 23650
   },
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-13",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
