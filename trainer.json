@@ -121,10 +121,25 @@
       "alive": true,
       "level": 24,
       "mon": 846
+    },
+    "Femur-0607/bag-expedition-web": {
+      "exp": 1500,
+      "caught": true,
+      "species": 19,
+      "stars": 0,
+      "commits": 6,
+      "merges": 0,
+      "alive": true,
+      "level": 11,
+      "mon": 19
     }
   },
   "dex": {
     "16": {
+      "seen": true,
+      "caught": true
+    },
+    "19": {
       "seen": true,
       "caught": true
     },
@@ -170,7 +185,7 @@
     }
   },
   "trainer": {
-    "grassExp": 19550
+    "grassExp": 24600
   },
   "updatedAt": "2026-10-14",
   "exp": {
