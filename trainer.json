@@ -129,9 +129,20 @@
       "stars": 0,
       "commits": 6,
       "merges": 0,
-      "alive": true,
+      "alive": false,
       "level": 11,
       "mon": 19
+    },
+    "Femur-0607/prototypes": {
+      "exp": 2250,
+      "caught": true,
+      "species": 285,
+      "stars": 0,
+      "commits": 9,
+      "merges": 0,
+      "alive": true,
+      "level": 15,
+      "mon": 285
     }
   },
   "dex": {
@@ -148,6 +159,10 @@
       "caught": true
     },
     "74": {
+      "seen": true,
+      "caught": true
+    },
+    "285": {
       "seen": true,
       "caught": true
     },
@@ -185,9 +200,9 @@
     }
   },
   "trainer": {
-    "grassExp": 24600
+    "grassExp": 24700
   },
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-15",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
