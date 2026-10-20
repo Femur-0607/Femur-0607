@@ -90,7 +90,7 @@ Unity 팀 프로젝트의 관리·통합부터 Unreal C++ 1인 개발, 개발 �
 <!-- POKEREPO:START -->
 <table>
 <tr>
-<td align="center" valign="bottom" width="67" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=846" title="Arrokuda in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png" width="64" height="64" alt="arrokuda"></a></td>
+<td align="center" valign="bottom" width="67" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=847" title="Barraskewda in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png" width="64" height="64" alt="barraskewda"></a></td>
 <td align="center" valign="bottom" width="67" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=543" title="Venipede in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/543.gif" width="64" height="45" alt="venipede"></a></td>
 <td align="center" valign="bottom" width="67" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=285" title="Shroomish in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/285.gif" width="59" height="64" alt="shroomish"></a></td>
 <td align="center" valign="bottom" width="67" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=582" title="Vanillite in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/582.gif" width="64" height="52" alt="vanillite"></a></td>
@@ -105,7 +105,7 @@ Unity 팀 프로젝트의 관리·통합부터 Unreal C++ 1인 개발, 개발 �
 <td align="center" valign="bottom" width="67" height="64"><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=524" title="Roggenrola in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/524.gif" width="39" height="64" alt="roggenrola"></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=846"><b>Arrokuda</b></a><br><sub>Lv.24</sub><br><sub><a href="https://github.com/Femur-0607/handback" title="Femur-0607/handback">handback</a></sub></td>
+<td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=847"><b>Barraskewda</b></a><br><sub>Lv.26</sub><br><sub><a href="https://github.com/Femur-0607/handback" title="Femur-0607/handback">handback</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=543"><b>Venipede</b></a><br><sub>Lv.19</sub><br><sub><a href="https://github.com/Femur-0607/Femur-0607" title="Femur-0607/Femur-0607">Femur-0607</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=285"><b>Shroomish</b></a><br><sub>Lv.15 · parked</sub><br><sub><a href="https://github.com/Femur-0607/prototypes" title="Femur-0607/prototypes">prototypes</a></sub></td>
 <td align="center" valign="top" nowrap><a href="https://wantaekchoi.github.io/pokerepo/?u=Femur-0607&m=582"><b>Vanillite</b></a><br><sub>Lv.14</sub><br><sub><a href="https://github.com/Femur-0607/MissingDiamond" title="Femur-0607/MissingDiamond">MissingDiam…</a></sub></td>
