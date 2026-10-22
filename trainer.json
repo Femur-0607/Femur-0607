@@ -112,14 +112,14 @@
       "mon": 824
     },
     "Femur-0607/handback": {
-      "exp": 23500,
+      "exp": 25750,
       "caught": true,
       "species": 846,
       "stars": 0,
-      "commits": 94,
+      "commits": 103,
       "merges": 0,
       "alive": true,
-      "level": 26,
+      "level": 27,
       "mon": 847
     },
     "Femur-0607/bag-expedition-web": {
@@ -204,9 +204,9 @@
     }
   },
   "trainer": {
-    "grassExp": 16800
+    "grassExp": 14950
   },
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-22",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
